@@ -1,7 +1,7 @@
 <p> Hi there. My name is Yauhen. I'm working as a Full Stack JavaScript/TypeScript Developer. Talking about my stack: <p/>
 
 <div> -Programming Languages: JavaScript/TypeScript <div/>
-<div> -Web Technologies: HTML/HTML5, CSS/CSS3, LESS, SASS, Prepros, Node.js, React, Express.js, SQL (MySQL, PostgreSQL), React. <div/>
+<div> -Web Technologies: HTML/HTML5, CSS/CSS3, LESS, SASS, Prepros, Node.js, React, Express.js, SQL (MySQL, PostgreSQL), React, Jest <div/>
 <div> -Operating Systems: Windows family, MacOS, Linux <div/>
 <div> -Other Skills: Git <div/>
 <div> -Foreign Languages: English B1 <div/>
