@@ -6,7 +6,7 @@ I am a highly skilled Full Stack Developer with a strong focus on JavaScript and
 
 Here's a brief overview of the technologies I specialize in:
 
-Programming Languages:&nbsp;
+<!-- Programming Languages:&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <br/><br/>
 Web Technologies:<br/>
@@ -35,13 +35,13 @@ Operating Systems:
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <br/><br/>
 Other Skills:
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <br/>
-<!-- Web Technologies:  Node.js, Express, React, Bootstrap, Material UI,  Mongoose, JWT, Jest, Mocha, swagger, HTML/HTML5, CSS/CSS3, LESS, SASS,  webpack, Babel, Bash <br/>
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <br/> -->
+Web Technologies:  Node.js, Express, React, Bootstrap, Material UI,  Mongoose, JWT, Jest, Mocha, swagger, HTML/HTML5, CSS/CSS3, LESS, SASS,  webpack, Babel, Bash <br/>
 Application Servers:  Node.js <br/>
 Databases:  PostgreSQL, MySQL, MongoDB <br/>
 Operating Systems:  Windows family, MacOS, Linux  <br/>
 Other Skills:  Git <br/>
-Foreign Languages:  English Intermediate <br/> -->
+Foreign Languages:  English Intermediate <br/>
 
 Feel free to reach out to me at &nbsp;
 <a href="rivertoxi911@gmail.com">
