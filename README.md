@@ -6,7 +6,7 @@
 <div> -Other Skills: Git <div/>
 <div> -Foreign Languages: English B1 <div/>
 <br/>
-<div> Contacts: <div/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wihctoh&show_icons=true&theme=github_dark_dimmed)<div/> <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wihctoh&layout=compact&theme=github_dark_dimmed) <div/>
+<p> Contacts: <p/>
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wihctoh&show_icons=true&theme=github_dark_dimmed)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wihctoh&layout=compact&theme=github_dark_dimmed) 
