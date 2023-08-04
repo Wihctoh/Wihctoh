@@ -22,7 +22,7 @@ Feel free to reach out to me at &nbsp; <a href="rivertoxi911@gmail.com">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp; I am always open to exciting collaborations and opportunities. Let's build amazing things together! <br/>
 
-<p align='center'>
+<p>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Wihctoh&show_icons=true&theme=github_dark_dimmed"></a> <br/>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wihctoh&layout=compact&theme=github_dark_dimmed"></a>
 </p>
