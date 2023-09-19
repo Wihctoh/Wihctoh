@@ -6,7 +6,7 @@ I am a highly skilled Full Stack Developer with a strong focus on JavaScript and
 
 Here's a brief overview of the technologies I specialize in:
 
-Web Technologies:  Node.js, Express, React, Bootstrap, Material UI,  Mongoose, JWT, Jest, Mocha, swagger, HTML/HTML5, CSS/CSS3, LESS, SASS,  webpack, Babel, Bash <br/>
+Web Technologies:  Node.js, Express, React, Redux Toolkit, RTK Query, Bootstrap, Material UI, Mantine, Mongoose, JWT, Jest, Mocha, Swagger(OpenAPI), HTML/HTML5, CSS/CSS3, LESS, SASS,  Webpack, Babel, Bash <br/>
 Application Servers:  Node.js <br/>
 Databases:  PostgreSQL, MySQL, MongoDB <br/>
 Operating Systems:  Windows family, MacOS, Linux  <br/>
